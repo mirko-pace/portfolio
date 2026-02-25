@@ -17,4 +17,4 @@ I used the data from the House Price Prediction contest on Kaggle to brush off m
 
 
 ### ... and of course, have a look at my resume! ;) 
-[I have 13 years of experience](https://github.com/mirko-pace/portfolio/blob/main/Giovanni_mirko_pace_resume_DS_Dec25.pdf) in Product Analytics, Experimentation, promoting and executing strategies based on data-driven, trustworthy insights!
+[I have 15 years of experience](https://github.com/mirko-pace/portfolio/blob/main/Giovanni_mirko_pace_resume_DS_Dec25.pdf) in Product Analytics, Experimentation, promoting and executing strategies based on data-driven, trustworthy insights!
