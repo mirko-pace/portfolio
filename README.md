@@ -1,9 +1,9 @@
 ## Mirko's portfolio
 
-### Have you checked [chargedrop.app](https://chargedrop.app)?
-Chargedrop.app allows you to look for fast EV chargers around you in the US, check live if they're busy, and get an idea of what shops and restaurants are around.
+## How I run experiments in EVCS using Augmented Synthetic Controls:
+with a lot of R code you can use to kickstart your geo-testing program!
 
-It's, at the moment, a personal project that is also an excellent playground to dust off some machine learning skills, my knowledge of AWS, Python, and play around with an exciting use-case for Generative AI and LLMs.
+https://mirko-pace.github.io/articles/evcs_acsm_experiments.html
 
 ### How I generated content from the OpenStreepMap APIs:
 An example of Retrieval-Augmented Generation using Overpass, the OSM apis, LLama2 through Ollama and Langchain:
